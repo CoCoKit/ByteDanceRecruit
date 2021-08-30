@@ -1,5 +1,4 @@
-# ByteDanceRecruit
-# ByteDanceRecruit
+# 字节跳动招聘
 # [成都]字节跳动 - 抖音 - iOS/Android工程师
 
 ## 团队介绍
